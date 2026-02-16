@@ -41,5 +41,5 @@ I am currently focusing my self-study and academic research on the following dom
 ---
 
 ### 📊 GitHub Activity
-![Taeaps561's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeaps561&show_icons=true&theme=nord&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeaps561&layout=compact&theme=nord&cache_seconds=1800)
 
