@@ -41,4 +41,4 @@ I am currently focusing my self-study and academic research on the following dom
 ---
 
 ### 📊 GitHub Activity
-![Total Projects](https://img.shields.io/github/repos/all/Taeaps561?style=for-the-badge&label=Total%20Projects&color=5E81AC&logo=github)
+![Projects](https://img.shields.io/badge/Total%20Projects-29-5E81AC?style=for-the-badge&logo=github)
