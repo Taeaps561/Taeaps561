@@ -41,4 +41,4 @@ I am currently focusing my self-study and academic research on the following dom
 ---
 
 ### 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taeaps561&theme=nord)
+![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Taeaps561&show_icons=true&theme=nord)
