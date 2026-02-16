@@ -1,4 +1,4 @@
-💻 Root@Codename_IAM66:~#
+# 💻 Root@Codename_IAM66:~#
 **Cybersecurity Student @ Suan Dusit University (SDU)**
 
 I am a Cybersecurity student dedicated to mastering the balance between **Offensive Security** and **Automated Defense**. My academic journey focuses on building resilient systems through automation and cloud-native security practices.
