@@ -42,3 +42,14 @@ I am currently focusing my self-study and academic research on the following dom
 
 ### 📊 GitHub Activity
 ![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Taeaps561&show_icons=true&theme=nord)
+
+
+---
+
+### 📊 GitHub Activity
+
+![Total Projects](https://img.shields.io/badge/dynamic/json?label=Total%20Projects&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTaeaps561&style=for-the-badge&color=5E81AC&logo=github)
+
+![Taeaps561's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeaps561&show_icons=true&theme=nord&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeaps561&layout=compact&theme=nord&cache_seconds=1800)
