@@ -40,10 +40,5 @@ I am currently focusing my self-study and academic research on the following dom
 
 ---
 
-### 📊 Project & Lab Progress
-
-![Total Projects](https://img.shields.io/badge/Total%20Projects-29-5E81AC?style=for-the-badge&logo=github)
-
-![Wazuh & n8n Labs](https://img.shields.io/badge/SOAR%20Labs-5%20Completed-orange?style=flat-square&logo=wazuh)
-![Network Labs](https://img.shields.io/badge/Network%20Labs-12%20Completed-green?style=flat-square&logo=cisco)
-![OSCP Progress](https://img.shields.io/badge/OSCP%20Labs-8%20Rooted-red?style=flat-square&logo=kali-linux)
+### 📊 GitHub Activity
+![Total Projects](https://img.shields.io/github/repos/all/Taeaps561?style=for-the-badge&label=Total%20Projects&color=5E81AC&logo=github)
