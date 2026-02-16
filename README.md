@@ -41,4 +41,4 @@ I am currently focusing my self-study and academic research on the following dom
 ---
 
 ### 📊 GitHub Activity
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taeaps561&theme=nord)
+![Total Projects](https://img.shields.io/github/repos/all/Taeaps561?style=for-the-badge&label=Total%20Projects&color=5E81AC&logo=github)
