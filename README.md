@@ -41,4 +41,4 @@ I am currently focusing my self-study and academic research on the following dom
 ---
 
 ### 📊 GitHub Activity
-![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Taeaps561&show_icons=true&theme=nord)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taeaps561&theme=nord)
